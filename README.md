@@ -1,6 +1,6 @@
 # Campus Connect (MERN Stack)
 
-Campus Connect is a campus job portal built with MERN (MongoDB, Express.js, React.js, Node.js). It lets students browse campus job listings, apply with resumes, and track applications.
+ Built with MERN (MongoDB, Express.js, React.js, Node.js). It lets students browse campus job listings, apply with resumes, and track applications.
 
 ## Features
 
@@ -15,7 +15,7 @@ Campus Connect is a campus job portal built with MERN (MongoDB, Express.js, Reac
 - **Backend:** Node.js, Express.js, MongoDB
 - **Authentication:** JWT (JSON Web Tokens), Bcrypt (for password hash)
 - **Image Upload:** Cloudinary for storing and managing uploaded images
-- **Deployment:** Vercel (frontend), Render(backend), MongoDB Atlas (database)
+
 
 ## Getting Started
 
@@ -78,21 +78,11 @@ To get a local copy up and running follow these simple steps.
 
 ## Screenshots / Design Assets
 
-If you want to share screenshots, add them to a folder such as `docs/screenshots/` and reference them below:
+<img width="1886" height="812" alt="Screenshot 2026-03-19 145501" src="https://github.com/user-attachments/assets/fe51bd41-b62d-457a-b1ad-ca9b203f4fc2" />
+<img width="1872" height="795" alt="Screenshot 2026-03-19 145637" src="https://github.com/user-attachments/assets/e64e4f02-674f-432a-808c-2504e0bb11fc" />
 
-```md
-![Login screen](docs/screenshots/login.png)
-![Job list](docs/screenshots/jobs.png)
-```
 
-You can also update the UI images in the project and commit them if you want.
 
-## Contributing
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request (`we will merge within 24 hour`)
+
